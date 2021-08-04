@@ -1,1 +1,7 @@
-
+<?xml version="1.0"?>
+<VIDEOS>
+  <VIDEO>
+    <TITLE>Test 1</TITLE>
+    <LINK>https://www.youtube.com/watch?v=klqi_h9FElc</LINK>
+  </VIDEO>
+</VIDEOS>
