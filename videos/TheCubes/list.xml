@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <VIDEOS type="array">
-  <VIDEO>
-    <TITLE>Test 1</TITLE>
-    <LINK>https://www.youtube.com/watch?v=klqi_h9FElc</LINK>
+  <VIDEO type="array">
+    <COMPONENT>Test 1</COMPONENT>
+    <COMPONENT>https://www.youtube.com/watch?v=klqi_h9FElc</COMPONENT>
   </VIDEO>
 </VIDEOS>
