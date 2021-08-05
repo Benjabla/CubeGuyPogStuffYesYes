@@ -1,11 +1,5 @@
 <?xml version="1.0"?>
 <VIDS type="array">
-  <VID>
-    <T>Test 1</T>
-    <L>https://www.youtube.com/watch?v=klqi_h9FElc</L>
-  </VID>
-  <VID>
-    <T>Test 2</T>
-    <L>No</L>
-  </VID>
+  <VID NAME="Test 1" URL="No.com"></VID>
+  <VID NAME="Test 2" URL="Yes.net"></VID>
 </VIDS>
